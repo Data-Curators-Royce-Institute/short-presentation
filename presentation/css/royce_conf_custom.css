@@ -55,7 +55,7 @@ h1, .royce_h1, .royce_h4, h2, .royce_h2, h3, .royce_h3, h4, h5, h6, p, a, div, s
 }
 
 .qrcode_image {
-  background-image: url(../images/DATAQRCODE1.png);
+  background-image: url(../images/handbook_qr.png);
   background-repeat: no-repeat;
   background-size: 30vh;
   background-position-x: 83%;
